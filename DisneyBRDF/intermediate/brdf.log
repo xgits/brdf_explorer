@@ -1,0 +1,201 @@
+﻿  Generate moc_predefs.h
+  BRDFAnalytic.cpp
+  BRDFBase.cpp
+  BRDFImageSlice.cpp
+  BRDFMeasuredAniso.cpp
+  BRDFMeasuredMERL.cpp
+  ColorVarWidget.cpp
+  DGLFrameBuffer.cpp
+  DGLShader.cpp
+  FloatVarWidget.cpp
+  IBLWidget.cpp
+  IBLWindow.cpp
+  ImageSliceWidget.cpp
+  ImageSliceWindow.cpp
+  LitSphereWidget.cpp
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\BRDFBase.h(165,29): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data (compiling source file BRDFAnalytic.cpp)
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\BRDFBase.h(165,29): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data (compiling source file BRDFMeasuredAniso.cpp)
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\BRDFBase.h(165,29): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data (compiling source file BRDFImageSlice.cpp)
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\BRDFImageSlice.cpp(98,36): warning C4305: '=': truncation from 'double' to 'float'
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\BRDFImageSlice.cpp(99,36): warning C4305: '=': truncation from 'double' to 'float'
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\BRDFBase.h(165,29): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data (compiling source file BRDFMeasuredMERL.cpp)
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\BRDFMeasuredMERL.cpp(77,50): warning C4305: 'argument': truncation from 'double' to 'float'
+  LitSphereWindow.cpp
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\BRDFBase.h(165,29): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data (compiling source file ImageSliceWidget.cpp)
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\ImageSliceWidget.cpp(75,18): warning C4305: '=': truncation from 'double' to 'float'
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\ImageSliceWidget.cpp(78,17): warning C4305: '=': truncation from 'double' to 'float'
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\ImageSliceWidget.cpp(81,26): warning C4305: '=': truncation from 'double' to 'float'
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\ImageSliceWidget.cpp(82,24): warning C4305: '=': truncation from 'double' to 'float'
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\ImageSliceWidget.cpp(87,16): warning C4305: '=': truncation from 'double' to 'float'
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\ImageSliceWidget.cpp(95,57): warning C4305: 'argument': truncation from 'double' to 'float'
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\ptex\Ptexture.h(145,1): warning C4305: 'initializing': truncation from 'double' to 'const float' (compiling source file IBLWidget.cpp)
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\ImageSliceWidget.cpp(215,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\ImageSliceWidget.cpp(256,48): warning C4305: 'argument': truncation from 'double' to 'const _Ty'
+          with
+          [
+              _Ty=float
+          ]
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\ImageSliceWidget.cpp(265,48): warning C4305: 'argument': truncation from 'double' to 'const _Ty'
+          with
+          [
+              _Ty=float
+          ]
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\BRDFBase.h(165,29): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data (compiling source file BRDFBase.cpp)
+  MainWindow.cpp
+  ParameterGroupWidget.cpp
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\BRDFBase.h(165,29): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data (compiling source file IBLWindow.cpp)
+  ParameterWindow.cpp
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\BRDFBase.h(165,29): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data (compiling source file IBLWidget.cpp)
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\IBLWindow.cpp(117,52): warning C4305: 'argument': truncation from 'double' to 'float'
+  Paths.cpp
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\IBLWidget.cpp(94,16): warning C4305: '=': truncation from 'double' to 'float'
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\IBLWidget.cpp(97,26): warning C4305: '=': truncation from 'double' to 'float'
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\IBLWidget.cpp(98,24): warning C4305: '=': truncation from 'double' to 'float'
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\IBLWidget.cpp(134,20): warning C4305: '=': truncation from 'double' to 'float'
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\IBLWidget.cpp(135,21): warning C4305: '=': truncation from 'double' to 'float'
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\IBLWidget.cpp(357,34): warning C4305: '=': truncation from 'double' to 'float'
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\IBLWidget.cpp(359,43): warning C4305: '=': truncation from 'double' to 'float'
+  Plot3DWidget.cpp
+  PlotCartesianWidget.cpp
+  PlotCartesianWindow.cpp
+  PlotPolarWidget.cpp
+  PtexCache.cpp
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\BRDFBase.h(165,29): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data (compiling source file ImageSliceWindow.cpp)
+  PtexHalf.cpp
+  PtexReader.cpp
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\ImageSliceWindow.cpp(84,52): warning C4305: 'argument': truncation from 'double' to 'float'
+  PtexUtils.cpp
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\ptex\Ptexture.h(145,1): warning C4305: 'initializing': truncation from 'double' to 'const float' (compiling source file ptex\PtexCache.cpp)
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\BRDFBase.h(165,29): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data (compiling source file LitSphereWindow.cpp)
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\LitSphereWindow.cpp(88,52): warning C4305: 'argument': truncation from 'double' to 'float'
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\ptex\PtexReader.h(118,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data (compiling source file ptex\PtexCache.cpp)
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\BRDFBase.h(165,29): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data (compiling source file MainWindow.cpp)
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\BRDFBase.h(165,29): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data (compiling source file ParameterWindow.cpp)
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\BRDFBase.h(165,29): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data (compiling source file ParameterGroupWidget.cpp)
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\ParameterGroupWidget.cpp(74,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\ParameterGroupWidget.cpp(349,39): warning C4804: '>': unsafe use of type 'bool' in operation
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\ParameterWindow.cpp(69,21): warning C4305: '=': truncation from 'double' to 'float'
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\ParameterWindow.cpp(70,19): warning C4305: '=': truncation from 'double' to 'float'
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\ParameterWindow.cpp(269,47): warning C4305: 'argument': truncation from 'double' to 'float'
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\ParameterWindow.cpp(271,44): warning C4305: 'argument': truncation from 'double' to 'float'
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\ParameterWindow.cpp(322,46): warning C4305: 'argument': truncation from 'double' to 'float'
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\ParameterWindow.cpp(327,46): warning C4305: 'argument': truncation from 'double' to 'float'
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\ParameterWindow.cpp(332,46): warning C4305: 'argument': truncation from 'double' to 'float'
+  Quad.cpp
+  SharedContextGLWidget.cpp
+  ShowingDockWidget.cpp
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\ptex\Ptexture.h(145,1): warning C4305: 'initializing': truncation from 'double' to 'const float' (compiling source file ptex\PtexReader.cpp)
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\ptex\PtexReader.h(118,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data (compiling source file ptex\PtexReader.cpp)
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\ptex\PtexReader.cpp(505,44): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\BRDFBase.h(165,29): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data (compiling source file PlotCartesianWindow.cpp)
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\ptex\Ptexture.h(145,1): warning C4305: 'initializing': truncation from 'double' to 'const float' (compiling source file ptex\PtexUtils.cpp)
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\ptex\PtexUtils.cpp(109,75): warning C4305: 'argument': truncation from 'double' to 'float'
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\ptex\PtexUtils.cpp(110,77): warning C4305: 'argument': truncation from 'double' to 'float'
+  SimpleModel.cpp
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\BRDFBase.h(165,29): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data (compiling source file PlotPolarWidget.cpp)
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\PlotPolarWidget.cpp(65,23): warning C4305: '=': truncation from 'double' to 'float'
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\PlotPolarWidget.cpp(66,21): warning C4305: '=': truncation from 'double' to 'float'
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\PlotPolarWidget.cpp(139,34): warning C4305: 'initializing': truncation from 'double' to 'float'
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\PlotPolarWidget.cpp(164,66): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\PlotPolarWidget.cpp(260,51): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\PlotPolarWidget.cpp(269,34): warning C4305: 'initializing': truncation from 'double' to 'float'
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\PlotPolarWidget.cpp(284,56): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\BRDFBase.h(165,29): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data (compiling source file LitSphereWidget.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math_defines.h(23,1): warning C4005: 'M_E': macro redefinition (compiling source file LitSphereWidget.cpp)
+C:\Qt\5.15.1\msvc2019_64\include\QtCore\qmath.h(155): message : see previous definition of 'M_E' (compiling source file LitSphereWidget.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math_defines.h(24,1): warning C4005: 'M_LOG2E': macro redefinition (compiling source file LitSphereWidget.cpp)
+C:\Qt\5.15.1\msvc2019_64\include\QtCore\qmath.h(159): message : see previous definition of 'M_LOG2E' (compiling source file LitSphereWidget.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math_defines.h(25,1): warning C4005: 'M_LOG10E': macro redefinition (compiling source file LitSphereWidget.cpp)
+C:\Qt\5.15.1\msvc2019_64\include\QtCore\qmath.h(163): message : see previous definition of 'M_LOG10E' (compiling source file LitSphereWidget.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math_defines.h(26,1): warning C4005: 'M_LN2': macro redefinition (compiling source file LitSphereWidget.cpp)
+C:\Qt\5.15.1\msvc2019_64\include\QtCore\qmath.h(167): message : see previous definition of 'M_LN2' (compiling source file LitSphereWidget.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math_defines.h(27,1): warning C4005: 'M_LN10': macro redefinition (compiling source file LitSphereWidget.cpp)
+C:\Qt\5.15.1\msvc2019_64\include\QtCore\qmath.h(171): message : see previous definition of 'M_LN10' (compiling source file LitSphereWidget.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math_defines.h(28,1): warning C4005: 'M_PI': macro redefinition (compiling source file LitSphereWidget.cpp)
+C:\Qt\5.15.1\msvc2019_64\include\QtCore\qmath.h(175): message : see previous definition of 'M_PI' (compiling source file LitSphereWidget.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math_defines.h(29,1): warning C4005: 'M_PI_2': macro redefinition (compiling source file LitSphereWidget.cpp)
+C:\Qt\5.15.1\msvc2019_64\include\QtCore\qmath.h(179): message : see previous definition of 'M_PI_2' (compiling source file LitSphereWidget.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math_defines.h(30,1): warning C4005: 'M_PI_4': macro redefinition (compiling source file LitSphereWidget.cpp)
+C:\Qt\5.15.1\msvc2019_64\include\QtCore\qmath.h(183): message : see previous definition of 'M_PI_4' (compiling source file LitSphereWidget.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math_defines.h(31,1): warning C4005: 'M_1_PI': macro redefinition (compiling source file LitSphereWidget.cpp)
+C:\Qt\5.15.1\msvc2019_64\include\QtCore\qmath.h(187): message : see previous definition of 'M_1_PI' (compiling source file LitSphereWidget.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math_defines.h(32,1): warning C4005: 'M_2_PI': macro redefinition (compiling source file LitSphereWidget.cpp)
+C:\Qt\5.15.1\msvc2019_64\include\QtCore\qmath.h(191): message : see previous definition of 'M_2_PI' (compiling source file LitSphereWidget.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math_defines.h(33,1): warning C4005: 'M_2_SQRTPI': macro redefinition (compiling source file LitSphereWidget.cpp)
+C:\Qt\5.15.1\msvc2019_64\include\QtCore\qmath.h(195): message : see previous definition of 'M_2_SQRTPI' (compiling source file LitSphereWidget.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math_defines.h(34,1): warning C4005: 'M_SQRT2': macro redefinition (compiling source file LitSphereWidget.cpp)
+C:\Qt\5.15.1\msvc2019_64\include\QtCore\qmath.h(199): message : see previous definition of 'M_SQRT2' (compiling source file LitSphereWidget.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_math_defines.h(35,1): warning C4005: 'M_SQRT1_2': macro redefinition (compiling source file LitSphereWidget.cpp)
+C:\Qt\5.15.1\msvc2019_64\include\QtCore\qmath.h(203): message : see previous definition of 'M_SQRT1_2' (compiling source file LitSphereWidget.cpp)
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\LitSphereWidget.cpp(74,16): warning C4305: '=': truncation from 'double' to 'float'
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\LitSphereWidget.cpp(77,26): warning C4305: '=': truncation from 'double' to 'float'
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\LitSphereWidget.cpp(78,24): warning C4305: '=': truncation from 'double' to 'float'
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\LitSphereWidget.cpp(80,23): warning C4305: '=': truncation from 'double' to 'float'
+  Sphere.cpp
+  ViewerWindow.cpp
+  glerror.cpp
+  main.cpp
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\BRDFBase.h(165,29): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data (compiling source file Plot3DWidget.cpp)
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\geodesicHemisphere.h(99,1): warning C4305: 'initializing': truncation from 'double' to 'float' (compiling source file Plot3DWidget.cpp)
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\Plot3DWidget.cpp(70,26): warning C4305: '=': truncation from 'double' to 'float'
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\Plot3DWidget.cpp(71,24): warning C4305: '=': truncation from 'double' to 'float'
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\Plot3DWidget.cpp(77,24): warning C4305: '=': truncation from 'double' to 'float'
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\Plot3DWidget.cpp(85,28): warning C4305: '=': truncation from 'double' to 'float'
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\Plot3DWidget.cpp(163,37): warning C4305: 'initializing': truncation from 'double' to 'float'
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\Plot3DWidget.cpp(308,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\Plot3DWidget.cpp(394,26): warning C4305: '=': truncation from 'double' to 'float'
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\Plot3DWidget.cpp(396,27): warning C4305: '=': truncation from 'double' to 'float'
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\BRDFBase.h(165,29): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data (compiling source file PlotCartesianWidget.cpp)
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\PlotCartesianWidget.cpp(63,26): warning C4305: '=': truncation from 'double' to 'float'
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\PlotCartesianWidget.cpp(64,24): warning C4305: '=': truncation from 'double' to 'float'
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\PlotCartesianWidget.cpp(78,16): warning C4305: '=': truncation from 'double' to 'float'
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\PlotCartesianWidget.cpp(81,15): warning C4305: '=': truncation from 'double' to 'float'
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\PlotCartesianWidget.cpp(185,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\PlotCartesianWidget.cpp(186,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\PlotCartesianWidget.cpp(291,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\PlotCartesianWidget.cpp(327,40): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\PlotCartesianWidget.cpp(538,48): warning C4305: 'argument': truncation from 'double' to 'const _Ty'
+          with
+          [
+              _Ty=float
+          ]
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\PlotCartesianWidget.cpp(549,48): warning C4305: 'argument': truncation from 'double' to 'const _Ty'
+          with
+          [
+              _Ty=float
+          ]
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\BRDFBase.h(165,29): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data (compiling source file Quad.cpp)
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\glerror.cpp(46,33): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\glerror.cpp(56,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\Sphere.cpp(41,28): warning C4305: '+=': truncation from 'double' to 'float'
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\Sphere.cpp(158,75): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\BRDFBase.h(165,29): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data (compiling source file main.cpp)
+  moc_ColorVarWidget.cpp
+  moc_FloatVarWidget.cpp
+  moc_IBLWidget.cpp
+  moc_IBLWindow.cpp
+  moc_ImageSliceWidget.cpp
+  moc_ImageSliceWindow.cpp
+  moc_LitSphereWidget.cpp
+  moc_LitSphereWindow.cpp
+  moc_MainWindow.cpp
+  moc_ParameterGroupWidget.cpp
+  moc_ParameterWindow.cpp
+  moc_Plot3DWidget.cpp
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\bitmapContainer.h(55,47): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data (compiling source file Release\moc_IBLWidget.cpp)
+  moc_PlotCartesianWidget.cpp
+  moc_PlotCartesianWindow.cpp
+  moc_PlotPolarWidget.cpp
+  moc_ShowingDockWidget.cpp
+  moc_ViewerWindow.cpp
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\BRDFBase.h(165,29): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data (compiling source file Release\moc_IBLWindow.cpp)
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\BRDFBase.h(165,29): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data (compiling source file Release\moc_LitSphereWidget.cpp)
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\BRDFBase.h(165,29): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data (compiling source file Release\moc_Plot3DWidget.cpp)
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\BRDFBase.h(165,29): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data (compiling source file Release\moc_ImageSliceWidget.cpp)
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\BRDFBase.h(165,29): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data (compiling source file Release\moc_IBLWidget.cpp)
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\BRDFBase.h(165,29): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data (compiling source file Release\moc_ParameterWindow.cpp)
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\BRDFBase.h(165,29): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data (compiling source file Release\moc_PlotCartesianWidget.cpp)
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\BRDFBase.h(165,29): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data (compiling source file Release\moc_PlotCartesianWindow.cpp)
+G:\1_Projects\BRDF\DisneyBRDF\src\brdf\BRDFBase.h(165,29): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data (compiling source file Release\moc_PlotPolarWidget.cpp)
+LIBCMT.lib(initializers.obj) : warning LNK4098: defaultlib 'msvcrt.lib' conflicts with use of other libs; use /NODEFAULTLIB:library
+  brdf.vcxproj -> G:\1_Projects\BRDF\DisneyBRDF\src\bin\brdf.exe
